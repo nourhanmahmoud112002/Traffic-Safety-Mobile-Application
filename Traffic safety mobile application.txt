@@ -1,0 +1,11 @@
+
+
+
+
+
+The goal of this system is to improve  the flow of vehicle traffic and improve safety. 
+It integrates Real-time traffic data from cameras, speed sensors. 
+Goals: Enhance mobility by telling the crowded streets, 
+Improve safety by telling the allowed speeds on roads, 
+Increase transportation system efficiency by telling new roads for selected destinations,
+ and finally showing traffic violations.
